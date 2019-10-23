@@ -1,0 +1,9 @@
+stepDefinitions/AuthenticationPageSteps.class
+runners/TestRunner.class
+stepDefinitions/MyAccountPageSteps.class
+stepDefinitions/HomePageSteps.class
+stepDefinitions/CreateAnAccountPageSteps.class
+stepDefinitions/Hooks.class
+stepDefinitions/ProductCategoryPageSteps.class
+stepDefinitions/OrderConfirmationPageSteps.class
+stepDefinitions/CheckoutPageSteps.class

@@ -3,7 +3,7 @@
 ##Framework Development Environment:
 Framework is developed considering following system requirements
 - OS - Windos 10/MacOS Mojave 10.14.6	
-- Java Version - 1.8.0_211
+- Java Version - JDK 1.8.0_211
 - IDE - Eclipse Neon.3 Release (4.6.3)
 - Maven Version - Apache Maven 3.6.2
 
@@ -16,6 +16,9 @@ Framework is developed considering following system requirements
 - Parallel execution is achieved through Maven Surefire plugin. You can change the thread count in pom.xml to run the parallel instances.
 - Reading test data for matching the available texts on the page from property file. Also, used Cucumber Example table feature to run the same scenario for different sets of data.
 - Random data is generated using javafaker where we generated account creation data.
+- Currently it is tested with Firefox and Chrome browser.
+
+**NOTE: Execution environment in Eclipse should be JDK instead of JRE.
 
 ##How to RUN:
 There are two ways to execute it
